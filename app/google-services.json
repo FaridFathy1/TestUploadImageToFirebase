@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "177840385894",
+    "firebase_url": "https://imagetest-fb22a.firebaseio.com",
+    "project_id": "imagetest-fb22a",
+    "storage_bucket": "imagetest-fb22a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177840385894:android:557476327403fdd2",
+        "android_client_info": {
+          "package_name": "com.fred.testuploadimagetofirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "177840385894-9a21k8q494kqtu90ehvph04jlgrv3af4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0oBerD1OzZMG-aVglfOu3HBa1pCzvOnw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
